@@ -1,0 +1,19 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.change-color{
+  color:red;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap:50px;
+    padding-top: 150px;
+    background:linear-gradient(to right,#e0c3fc 10%, #8ec5fc);
+}
+textarea{
+    width:30vw;
+    height: 15vh;
+}
